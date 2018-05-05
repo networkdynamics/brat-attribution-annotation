@@ -1,9 +1,8 @@
 # Usage
 This repository provides configuration files used, along with the brat
 annotation software, to perform annotation in the paper
-
-   Annotation in "An attribution relations corpus for political news".
-   Edward Newell, Drew Margolin Derek Ruths. LREC 2018.
+_An attribution relations corpus for political news_ by 
+Edward Newell, Drew Margolin Derek Ruths, published in LREC 2018.
 
 To use the same interface as used in the paper, first obtain and install the
 [brat-annotation software](http://brat.nlplab.org/), then place the files
