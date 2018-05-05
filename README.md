@@ -1,6 +1,5 @@
 Usage
 ~~~~~
-
 This repository provides configuration files used, along with the brat
 annotation software, to perform annotation in the paper
 
